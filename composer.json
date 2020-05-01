@@ -4,6 +4,7 @@
 	"description": "Datagrid component for Nette Framework.",
 	"keywords": ["nextras", "nette", "datagrid"],
 	"license": ["MIT"],
+	"minimum-stability": "stable",
 	"authors": [
 		{
 			"name": "Jan Skrasek",
@@ -24,7 +25,7 @@
 	},
 	"extra": {
 		"branch-alias": {
-			"dev-master": "2.1-dev"
+			"master": "2.1.2"
 		}
 	},
 	"autoload": {
