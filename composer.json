@@ -1,5 +1,5 @@
 {
-	"name": "nextras/datagrid",
+	"name": "yosieu/datagrid",
 	"type": "library",
 	"description": "Datagrid component for Nette Framework.",
 	"keywords": ["nextras", "nette", "datagrid"],
@@ -9,6 +9,10 @@
 			"name": "Jan Skrasek",
 			"email": "hrach.cz@gmail.com",
 			"homepage": "http://jan.skrasek.com"
+		},
+		{
+			"name": "Josef Šíma",
+			"email": "yosi.eu@gmail.com"
 		}
 	],
 	"require": {
@@ -24,6 +28,6 @@
 		}
 	},
 	"autoload": {
-		"psr-4": { "Nextras\\Datagrid\\": "src/" }
+		"psr-4": { "Yosieu\\Datagrid\\": "src/" }
 	}
 }
